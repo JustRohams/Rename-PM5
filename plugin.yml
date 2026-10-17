@@ -1,0 +1,14 @@
+name: Rename
+main: RohaM\Rename\Loader
+version: 1.0.0
+api: 5.0.0
+author: RohaM
+website: https://github.com/JustRohams
+description: Rename the item in your hand with a clean UI form
+depend:
+  - FormAPI
+
+permissions:
+  rename.command:
+    description: Allows the player to use /rename
+    default: true

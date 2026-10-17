@@ -1,0 +1,12 @@
+.idea/
+.vscode/
+*.iml
+*.swp
+*~
+
+.DS_Store
+Thumbs.db
+
+*.phar
+/vendor/
+composer.lock
