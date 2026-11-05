@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 [![PHP](https://img.shields.io/badge/PHP-%3E%3D8.0-purple)](https://www.php.net/)
 
-A clean, lightweight **PocketMine-MP 5** plugin that lets players rename the item in their hand via a beautiful UI form.
+A clean, lightweight **PocketMine-MP 5** plugin that lets players rename the item in their hand via a beautiful UI form
 
 ---
 
